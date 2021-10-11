@@ -1,0 +1,67 @@
+body{
+
+    font-size: 10px;
+    background-color: bisque;
+
+}
+
+ul{
+    color: black;
+    font-size: 15px;
+
+}
+h1.titre{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 15px solid black;
+    background-color: lightgrey;
+}
+div.hh
+    {border-style: solid;
+        width: 20%;
+        background-color: lightgrey;
+        padding: 20px;
+        margin-left:60px;
+        
+    }
+    
+   div.fatma{
+        width: 60%;
+        border-style: solid;
+        padding: 20px;
+        margin-left:400px;
+        margin-top: -540px;
+        background-color: lightgrey;
+      
+   }
+   div.ho
+   {
+    width: 60%;
+    border-style: solid;
+    padding: 20px;
+    margin-left:400px;
+    margin-top:30px;
+    background-color: lightgrey;
+    height: 220px;
+    font-size: 15px;
+    
+   }
+   h2.tab{
+       font-size: 15px;
+       border:  solid black;
+       padding: 5px;
+       width: 250px;
+       background-color: bisque;
+   }
+tr.over{
+    background-color: bisque;
+}
+h2.soli{
+    border:  solid black;
+    padding: 5px;
+    width: 200px;
+    background-color: bisque;
+}
+img.img{
+    border-radius:50%;
+}
